@@ -4,9 +4,9 @@
 baseurl:
 url: https://weizuo93.github.io
 date_format: "ordinal"
-title: Wei Zuo
-subtitle: "Wei Zuo 的个人主页"
-description: "Wei Zuo 的个人主页"
+title: Weizuo
+subtitle: "Weizuo 的个人博客"
+description: "Weizuo 的个人博客"
 keywords: 分布式存储, OLAP
 timezone: Asia/Shanghai
 encoding: "utf-8"
