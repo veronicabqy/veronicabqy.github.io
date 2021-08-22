@@ -1,6 +1,6 @@
-# Wei Zuo 的个人博客
+# BQY 的个人博客
 
-我的个人博客：<https://weizuo93.github.io/>。
+我的个人博客：<https://veronicabqy.github.io/>。
 
 ## Fork 指南
 
