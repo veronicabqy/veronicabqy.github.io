@@ -2,16 +2,16 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://weizuo93.github.io
+url: https://veronicabqy.github.io
 date_format: "ordinal"
-title: Weizuo
-subtitle: "Weizuo 的个人博客"
-description: "Weizuo 的个人博客"
-keywords: 分布式存储, OLAP
+title: Veronicabqy
+subtitle: "veronicabqy 的个人博客"
+description: "veronicabqy 的个人博客"
+keywords: 
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
-repository: weizuo93/weizuo93.github.io
+repository: veronicabqy/veronicabqy.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -49,12 +49,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Wei Zuo
+author: veronica
 organization: 
 organization_url: 
-github_username: weizuo93
+github_username: veronicabqy
 location: Beijing, China
-email: weizuo@apache.org
+email: 
 
 # ---------------- #
 #    Navigation    #
@@ -126,10 +126,10 @@ gitment:
         client_secret: 
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: weizuo93
-    repo: CommentRepo
-    clientID: 908c2381bbe4f2627d9b
-    clientSecret: 505f897fcdab17a5be9f25c7f64582530dbf2a17
+    owner: 
+    repo: 
+    clientID: 
+    clientSecret: 
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 

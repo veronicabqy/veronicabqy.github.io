@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-description: Weizuo's Blog 
-keywords: Zuo Wei, 魏祚
+description: veronicabqy's Blog 
+keywords: 
 comments: true
 menu: 关于
 permalink: /about/
